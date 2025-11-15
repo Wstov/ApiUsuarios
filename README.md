@@ -6,7 +6,7 @@ Periodo: III Cuatrimestre, 2025
 ---
 
 ## Integrantes del grupo
-| Nombre completo | Rol |
+| Marvin Gustavo Marín Lazo |
 |------------------------------|-----------------------------------------------|
 | Ronald Joel Angulo Hernández | Desarrollo de API, lógica de negocio y base de datos |
 
